@@ -1,0 +1,2 @@
+Hi this is P-VOK learning bash scripting
+It is going to be a fantastic journey. Huray!!
